@@ -30,7 +30,7 @@ experience:
     date_start: '2020-08-01'
     date_end: '2023-12-31'
     description: |2-
-        * WAM: 86 (High Distinction)
+        * WAM: 86 (**High Distinction**)
         * Dalyell Scholar
         * Dean’s List of Excellence in Academic Performance 2021 & 2022
         * Undergraduate High Honour Roll, 2021

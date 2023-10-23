@@ -20,7 +20,7 @@ author: admin
 
 👋 Hi, there! I'm **Quanhao Chen**, a current Honours student at the University of Sydney at Future System Architechture Lab (FSA-Lab) supervised by A/Prof. Shuaiwen Leon Song.
 
-My research interest lies in the fields of Machine Learning, MLsys design, and Security and Cryptography.
+My research interest lies in the fields of Machine Learning, MLsys design, and Security & Cryptography.
 
 {style="font-size: 1rem;"}
 

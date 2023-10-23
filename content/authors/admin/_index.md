@@ -18,7 +18,7 @@ organizations:
   url: "https://www.sydney.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include High Performance Computing, Machining Learning and MLsys.
+# bio: My research interests include High Performance Computing, Machining Learning and MLsys.
 
 interests:
 - Machine Learning

@@ -27,7 +27,8 @@ interests:
 
 education:
     courses:
-    - course: PhD in Artificial Intelligence
+    - course: Bachelor of Advanced Computing (Honours)
+      institution: University of Sydney
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

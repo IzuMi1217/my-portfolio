@@ -13,7 +13,7 @@ title: Awards
 subtitle:
 
 content:
-    - title: Summer Vacation Research Scholar
+  - title: Summer Vacation Research Scholar
     company: University of Sydney
     company_url: 'https://www.sydney.edu.au/'
     company_logo: 'usyd'

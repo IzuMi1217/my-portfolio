@@ -21,14 +21,16 @@ organizations:
 bio: My research interests include High Performance Computing, Machining Learning and MLsys.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machining Learning
+- MLsys
+- Security and cryptography
 
 education:
     courses:
     - course: Bachelor of Advanced Computing (Honours)
       institution: University of Sydney
+      date_start: '2020-08-01'
+      date_end: '2023-12-31'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -26,16 +26,16 @@ bio: My research interests include High Performance Computing, Machining Learnin
 #- Information Retrieval
 
 #education:
- courses:
- - course: PhD in Artificial Intelligence
-   institution: Stanford University
-   year: 2012
- - course: MEng in Artificial Intelligence
-   institution: Massachusetts Institute of Technology
-   year: 2009
- - course: BSc in Artificial Intelligence
-   institution: Massachusetts Institute of Technology
-   year: 2008
+# courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +45,6 @@ social:
 #   - icon: envelope
 #     icon_pack: fas
 #     link: 425437608@qq.com' # For a direct email link, use "mailto:test@example.org".
-
   - icon: Linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/quanhao-chen-723956232/

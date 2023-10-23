@@ -22,3 +22,4 @@ author: admin
 ---
 
 I'm a Honours student at the University of Sydney at Future System Architechture Lab (FSA-Lab) supervised by A/Prof. Shuaiwen Leon Song. My research focouses on Machine Learning Systems design. 
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}

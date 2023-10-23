@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Quanhao Chen (陈泉昊)
+title: Quanhao Chen
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,19 +42,20 @@ bio: My research interests include High Performance Computing, Machining Learnin
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 425437608@qq.com' # For a direct email link, use "mailto:test@example.org".
-  - icon: Linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/quanhao-chen-723956232/
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 425437608@qq.com' # For a direct email link, use "mailto:test@example.org".
+
+#   - icon: Linkedin
+#     icon_pack: fab
+#     link: https://www.linkedin.com/in/quanhao-chen-723956232/
 #   - icon: instagram
 #     icon_pack: fab
 #     link: https://instagram.com/geocushen
 # Uncomment below for Github link
-    - icon: github
-    icon_pack: fab
-    link: https://github.com/IzuMi1217
+    # - icon: github
+    # icon_pack: fab
+    # link: https://github.com/IzuMi1217
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

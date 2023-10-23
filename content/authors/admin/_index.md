@@ -18,7 +18,7 @@ status:
 #  url: "https://www.sydney.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include High Performance Computing, Machining Learning and MLsys.
+bio: My research interests include High Performance Computing, Machining Learning and MLsys.
 
 #interests:
 #- Artificial Intelligence
@@ -65,8 +65,8 @@ status:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
-<!-- ---
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->

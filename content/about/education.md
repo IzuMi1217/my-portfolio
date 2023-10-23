@@ -22,9 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: BEng Electronic Engineering
+  - title: Bachelor of Advanced Computing (Honours)
     company: University of Sydney
     company_url: 'https://www.sydney.edu.au/'
+    company_logo: 'usyd'
     location: Sydney
     date_start: '2020-08-01'
     date_end: '2023-12-31'

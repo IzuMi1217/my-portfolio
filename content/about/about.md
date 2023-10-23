@@ -14,7 +14,7 @@ weight: 10
 
 title: Hello
 
-text: Hello! I'm a Honours student at the University of Sydney at Future System Architechture Lab (FSA-Lab) supervised by A/Prof. Shuaiwen Leon Song. My research focouses on Machine Learning Systems design. 
+summary: Hello! I'm a Honours student at the University of Sydney at Future System Architechture Lab (FSA-Lab) supervised by A/Prof. Shuaiwen Leon Song. My research focouses on Machine Learning Systems design. 
 
 
 # Choose the user profile to display

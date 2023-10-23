@@ -29,7 +29,7 @@ experience:
     location: Sydney
     date_start: '2020-08-01'
     date_end: '2023-12-31'
-    description: abc
+    description: "WAM: 86 (High Distinction); Dalyell Scholar"
 
 design:
   columns: '1'

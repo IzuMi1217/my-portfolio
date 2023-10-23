@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include High Performance Computing, Machining Learning and MLsys.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 courses:

@@ -13,9 +13,9 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-# organizations:
-# - name: University of Sydney
-#  url: "https://www.sydney.edu.au/"
+organizations:
+- name: University of Sydney
+  url: "https://www.sydney.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include High Performance Computing, Machining Learning and MLsys.

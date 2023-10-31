@@ -21,8 +21,8 @@ organizations:
 # bio: My research interests include High Performance Computing, Machining Learning and MLsys.
 
 interests:
-- Machine Learning
-- MLsys
+- Software Engineering
+- Machine Learning Systems
 - Security and cryptography
 
 education:

@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Master of Philosophy
+    company: University of Sydney
+    company_url: 'https://www.sydney.edu.au/'
+    company_logo: 'usyd'
+    location: Sydney
+    date_start: '2024-03-01'
+    date_end: '2025-12-31'
+    description: 
+
   - title: Bachelor of Advanced Computing (Honours)
     company: University of Sydney
     company_url: 'https://www.sydney.edu.au/'
@@ -30,7 +39,7 @@ experience:
     date_start: '2020-08-01'
     date_end: '2023-12-31'
     description: |2-
-        * WAM: 86 (**High Distinction**)
+        * WAM: 86 (**High Distinction**) | First Class Honours
         * Dalyell Scholar
         * Dean’s List of Excellence in Academic Performance 2021 & 2022
         * Undergraduate High Honour Roll, 2021

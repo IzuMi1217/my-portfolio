@@ -6,7 +6,7 @@ title: Quanhao Chen 陈泉昊
 superuser: true
 
 # Role/position
-role: 'Honours Student at University of Sydney'
+role: 'M.Phil Student at the University of Sydney'
 
 # Status emoji
 status:
@@ -21,12 +21,14 @@ organizations:
 # bio: My research interests include High Performance Computing, Machining Learning and MLsys.
 
 interests:
-- Software Engineering
-- Machine Learning Systems
 - Security and cryptography
+- Software Engineering
+- Systems Design
 
 education:
     courses:
+    - course: Master of Philosophy (Engineering)
+      institution: University of Sydney
     - course: Bachelor of Advanced Computing (Honours)
       institution: University of Sydney
 
